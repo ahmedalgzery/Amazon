@@ -4,7 +4,7 @@ A full-stack Amazon with an included admin panel for managing products and order
 
 ## Demo
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MviEEETPByI/0.jpg)](https://youtu.be/MviEEETPByI)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PgPUhr51UOA/0.jpg)](https://youtu.be/PgPUhr51UOA)
 
 ## Features
 
